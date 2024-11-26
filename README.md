@@ -46,7 +46,7 @@ To work on this project, you should be familiar with the following technologies:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/funfit.git
+   git clone https://github.com/yourusername/funfit.git](https://github.com/Kaushikwagh/Simplilearn_FSD-Backend.git
    ```
    
 2. **Open in Eclipse**:
